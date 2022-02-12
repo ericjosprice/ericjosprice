@@ -1,4 +1,4 @@
-### Hi there I'm Eric Price 👋
+### Hi, i'm Eric Price 👋
 
 Driven technologist with 3 years of experience as a Software Engineer. Nine years of professional experience comprised of Software Development, IT support, Project Management, and Personnel Leadership. A graduate from the University of Texas at Austin with a B.A. in Mathematics and a Certificate in Full Stack Web Development.
 
